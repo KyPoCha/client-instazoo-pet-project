@@ -1,0 +1,17 @@
+.post-card{
+  display: block;
+  margin: 1rem auto;
+  width: 80%;
+  border: 1px solid #4d5787;
+  padding: 10px;
+  box-shadow: 5px 10px 8px 10px #4d5787;
+}
+
+.mat-mdc-card-image{
+  max-width: 100%;
+}
+
+.remove-button{
+  margin-right: -1rem;
+  margin-bottom: -5rem;
+}

@@ -1,0 +1,20 @@
+.spacer{
+  flex: 1 1 auto;
+}
+
+#menu-item button{
+  display: block;
+  margin: 0 auto;
+}
+
+.mat-toolbar{
+  /*background: #4d5787;*/
+  /*color: #c5c6c7;*/
+  border: 1px solid #4d5787;
+  padding: 10px;
+  border-radius: 0 0 30px 30px;
+}
+
+h3{
+  margin-top: 1rem;
+}
